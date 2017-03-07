@@ -17,4 +17,4 @@ The sequences are given in a txt file, one sequence per row and each frame is se
 
 ## Acknowledgments
 
-I thank [Artsiom Sanakoy](https://github.com/asanakoy/) for the alexnet implementation in tensorflow and Uta Buechler for implementing the LSTM part.
+I thank [Artsiom Sanakoy](https://github.com/asanakoy/) for the alexnet implementation in tensorflow and [Uta Buechler](https://utabuechler.github.io/homepage/) for updating the network for the LSTM.
